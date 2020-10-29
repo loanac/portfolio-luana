@@ -1,0 +1,75 @@
+        body {
+            box-sizing: border-box;
+            height: 100%;
+            width: 100%;
+        }
+        
+        section {
+            background: url('https://wallpapercave.com/wp/wp6784383.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+        
+        .segunda {
+            text-align: center;
+        }
+        
+        .icon1 {
+            width: 250px;
+            margin: 0 auto;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        h1 {
+            color: white;
+            font-size: 1.25em;
+            font-weight: 900;
+            margin: 0 0 1em;
+            padding: 10px;
+        }
+        
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            justify-content: center;
+            text-align: center;
+            width: 100%;
+        }
+        
+        .container {
+            align-items: center;
+            display: inline-block;
+            flex-direction: column;
+            justify-content: center;
+            padding: 1em;
+            text-align: center;
+            @media (min-width: 600px) {
+                flex-direction: row;
+                justify-content: space-between;
+            }
+        }
+        
+        .inicial .btn {
+            color: white;
+            background-image: radial-gradient(circle at 50% -20.71%, #b8c4ec 0, #6c90d8 50%, #0061c3 100%);
+            cursor: pointer;
+            display: inline-block;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 45px;
+            margin: 0 1em 2em;
+            max-width: 160px;
+            position: relative;
+            text-decoration: none;
+            text-transform: uppercase;
+            width: 100%;
+        }
+        
+        .btn {
+            background-image: radial-gradient(circle at 50% -20.71%, #b8c4ec 0, #6c90d8 50%, #0061c3 100%);
+        }
+        
+        a {
+            text-decoration: none;
+        }
