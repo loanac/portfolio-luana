@@ -1,0 +1,76 @@
+.jumbotron {
+    margin-bottom: 0;
+    background-color: rgb(181, 215, 247);
+}
+
+footer {
+    padding-bottom: 50px;
+}
+
+.icone {
+    width: 90px;
+}
+
+.icofot {
+    color: white;
+}
+
+@font-face {
+    font-family: "fontefonte";
+    src: url(../fonts/BebasNeue-Regular.otf);
+}
+
+.display-4 {
+    font-family: "fontefonte";
+    color: rgb(24, 24, 112);
+    font-size: 70px;
+}
+
+.iconav {
+    width: 80px;
+}
+
+
+/* pag contato */
+
+.contato {
+    background-color: white;
+}
+
+.row .col div p {
+    margin: 0px;
+}
+
+
+/* fim pag contato */
+
+
+/* menus */
+
+.navbar-nav .nav-item {
+    border-radius: 20px;
+    background-color: rgb(181, 215, 247);
+    margin: 0 3px;
+}
+
+
+/* foto da col-6 */
+
+.destaque {
+    padding: 20px;
+    padding-left: 0;
+}
+
+.col-6 h2 {
+    font-weight: bold;
+}
+
+.fundocabecalho {
+    background-color: rgb(42, 42, 87);
+}
+
+.stylecol {
+    position: relative;
+    height: 400px;
+    overflow: auto;
+}
