@@ -1,6 +1,6 @@
 <section class="segunda">
     <h3 class="text-center display-4 text-light">Meu Portfólio</h3>
-    <div class="container">
+    <div class="container inicio">
 
 
         <div class="row">

@@ -29,11 +29,14 @@
 
                 <!--End of Button 1 -->
 
-                <a href="https://twitter.com/Dave_Conner" class="btn btn-3"> Tecnologias</a>
+                <a href="index.php?pg=inicial" class="btn btn-3"> Portfólio</a>
+                <!--End of Button 3 -->
+
+                <a href="index.php?pg=tec" class="btn btn-3"> Tecnologias</a>
                 <!--End of Button 3 -->
 
 
-                <a href="https://twitter.com/Dave_Conner" class="btn btn-5">Contato</a>
+                <a href="index.php?pg=contato" class="btn btn-5"> Contato</a>
                 <!--End of Button 5 -->
 
 
