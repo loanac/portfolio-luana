@@ -34,7 +34,7 @@
                 <div class="address"><a href="" target="blank"><i class="fas fa-map-marker"></i><span> Jd. Paulista Baixo</span></a>
                 </div>
                 <div class="email"><a href="mailto:lcavalcantis07@gmail.com" target="blank"><i class="fas fa-envelope"></i><span>lcavalcantis07</span></a></div>
-                <div class="email"><a href="index.php" target="blank"><i class="fas fa-home"></i><span>Portfólio</span></a></div>
+                <div class="email"><a href="portfolio-luana/index.php" target="blank"><i class="fas fa-home"></i><span>Portfólio</span></a></div>
 
 
             </div>
@@ -116,7 +116,7 @@
                             <circle class="cbar" cx="50" cy="50" r="45"></circle>
                         </svg><span>Illustrator</span><small></small>
                     </li>
-                    <li data-percent="30">
+                    <li data-percent="70">
                         <svg viewbox="0 0 100 100">
                             <circle cx="50" cy="50" r="45"></circle>
                             <circle class="cbar" cx="50" cy="50" r="45"></circle>
