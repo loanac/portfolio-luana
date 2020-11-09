@@ -110,7 +110,7 @@
             <div class="skills-soft">
                 <h3><i class="fas fa-bezier-curve"></i>Software Skills</h3>
                 <ul>
-                    <li data-percent="90">
+                    <li data-percent="80">
                         <svg viewbox="0 0 100 100">
                             <circle cx="50" cy="50" r="45"></circle>
                             <circle class="cbar" cx="50" cy="50" r="45"></circle>
@@ -128,11 +128,11 @@
                             <circle class="cbar" cx="50" cy="50" r="45"></circle>
                         </svg><span>Ibis Paint X</span><small></small>
                     </li>
-                    <li data-percent="65">
+                    <li data-percent="80">
                         <svg viewbox="0 0 100 100">
                             <circle cx="50" cy="50" r="45"></circle>
                             <circle class="cbar" cx="50" cy="50" r="45"></circle>
-                        </svg><span>Dreamweaver</span><small></small>
+                        </svg><span>Vs Code</span><small></small>
                     </li>
                 </ul>
             </div>
